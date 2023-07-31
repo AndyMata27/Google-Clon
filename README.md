@@ -9,5 +9,5 @@ Sirve para describir la estructura básica de una página y organizar la forma e
 Un clon de google usando HTML, CSS de tal manera que se eva igual de que la página de google 
 
 ## ¿Con que objetivo?
-Con el obajetivo de aprendcer mas sobre los programas y lenguaje de programación 
+Con el obajetivo de aprendcer mas sobre los programas y lenguaje de programación.
 
